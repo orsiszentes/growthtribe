@@ -1,0 +1,92 @@
+body {
+  background: url('../img/option1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center
+}
+
+.jumbotron {
+background-color: transparent;
+  margin-top: 150px;
+  margin-bottom: 200px;
+      
+}
+
+.hiimorsi {
+      padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.text-grey {
+  color: grey;
+}
+
+.card {
+  opacity: .6;
+  border-radius: 10px;
+}
+
+#arrow {
+padding-top: 30px;
+  max-width: 40px;
+}
+
+.things {
+  font-size: 40px;
+}
+
+.quote {
+  font-size: 1.5rem;
+}
+
+.fa {
+
+
+display: inline-block;
+opacity: .8;
+padding:10px;
+  color: white;
+
+}
+
+.funny {
+  border-color: white;
+  color: white;
+  opacity: .9;
+  display: inline-block;
+  margin: 0 auto;
+  
+}
+
+.funnybutton {
+  display: flex;
+  justify-content: center;
+}
+
+.modal-body {
+background: #f3d4d4;
+  color: white;
+  border-radius: 10px;
+}
+
+.carousel-inner img {
+  border-radius: 10px;
+}
+
+.carousel-caption {
+text-shadow: 1px 1px 2px black;
+  opacity: .8;
+  
+}
+
+.first-slide {
+  opacity: .7;
+}
+
+@media (max-width:425px) {
+  .adj {
+  font-size: 3rem;
+}
+}
+
